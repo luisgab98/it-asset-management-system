@@ -45,3 +45,31 @@ El backend implementa un diseño relacional estricto mediante migraciones de Lar
 - Desarrollo de interfaces de usuario limpias, funcionales y orientadas a la experiencia del usuario (UX) para entornos corporativos.
 - Implementación de lógica de negocio para la generación de reportes descargables (Excel/PDF).
 - Gestión de seguridad en la autenticación y control de accesos de usuarios al panel administrativo.
+---
+
+## 📸 Vista Previa de la Interfaz
+
+### 📋 Dashboard y Control de Asignaciones
+Panel principal con buscador y paginación para el rastreo y control de los activos de TI en tiempo real.
+![Dashboard de Asignaciones](Dashboard-Asignaciones.png)
+
+### 💻 Ficha Técnica y Detalles del Equipo
+Registro exhaustivo de componentes de hardware, identificadores de soporte remoto y enlaces de documentación.
+![Detalles del equipo](Detalles%20del%20equipo.png)
+
+### 👥 Administración de Estructura Organizacional y Personal
+Módulos dedicados a la gestión de colaboradores activos, segmentación por sucursales y mapeo de jerarquías de trabajo.
+![Sección de Empleados](Seccion%20de%20Empleados.png)
+![Sección de Jefes](Seccion%20de%20Jefes.png)
+![Sección de Plazas](Seccion%20de%20Plazas.png)
+
+### 📉 Historial de Auditoría (Bajas)
+Bitácora de control para registrar el personal y los equipos de cómputo que han sido desvinculados de la operación.
+![Sección de Bajas](Seccion%20de%20Bajas.png)
+
+### 📥 Herramientas de Exportación y Automatización de Documentos
+Mecanismos integrados para la extracción de reportes logísticos en formatos de hoja de cálculo y generación automatizada de responsivas y pagarés legales de asignación.
+![Exportado en Excel](Exportado%20en%20Excel.png)
+![Exportar a PDF](Exportar%20a%20PDF.png)
+![Generación de PDF Asignación](Generacion%20de%20PDF-Asignacion.png)
+![Generación de Pagaré](Generacion%20de%20Pagare.png)
